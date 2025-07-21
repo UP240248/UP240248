@@ -1,5 +1,5 @@
 age=19
-peso=50
+peso=50.5
 complex_number=19
 base= 20
 altura=15

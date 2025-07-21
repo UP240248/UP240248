@@ -1,14 +1,14 @@
-empty_list = []
+lista = []
 
-my_list = [1, 2, 3, 4, 5, 6]
+mi_lista = [1, 2, 3, 4, 5, 6]
 
-length_of_list = len(my_list)
+longitud_lista = len(mi_lista)
 
-first_item = my_list[0]
-middle_item = my_list[len(my_list) // 2]
-last_item = my_list[-1]
+primer_objeto = mi_lista[0]
+objeto_medio = mi_lista[len(mi_lista) // 2]
+ulitmo_item = mi_lista[-1]
 
-mixed_data_types = ["Your Name", 30, 5.9, "Single", "Your Address"]
+mix_data_objetos = ["tu nombre", 30, 5.9, "soltero", "tu direccion"]
 
 it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
 

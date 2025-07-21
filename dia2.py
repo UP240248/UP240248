@@ -1,6 +1,6 @@
 irst_name = "diego"
 last_name = "figueroa"
-full_name = first_name + "" + last_name
+full_name = first_name  + last_name
 country = "Mexico"
 city = "Aguascalientes"
 age = 19

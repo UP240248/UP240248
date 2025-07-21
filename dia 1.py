@@ -1,4 +1,3 @@
-import math
 print(3 + 2)   # addition(+)
 print(3 - 2)   # subtraction(-)
 print(3 * 2)   # multiplication(*)
